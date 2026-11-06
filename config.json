@@ -1,0 +1,11 @@
+{
+  "seed": 1101,
+  "data_seed": 4101,
+  "point_budget": 1,
+  "tau_mm": 1.5,
+  "registration_epochs": 1,
+  "memory_epochs": 20,
+  "joint_epochs": 4,
+  "lr": 0.01,
+  "device": "cpu"
+}
